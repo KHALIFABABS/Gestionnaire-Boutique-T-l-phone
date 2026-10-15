@@ -1,0 +1,48 @@
+{
+  "name": "Ma Boutique - Gestion Boutique Téléphone",
+  "short_name": "Ma Boutique",
+  "description": "Gestionnaire de caisse pour boutique de téléphone au Sénégal",
+  "start_url": "./gestionnaire-boutique-telephone.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D47A1",
+  "theme_color": "#0D47A1",
+  "lang": "fr",
+  "dir": "ltr",
+  "categories": ["business", "finance", "productivity"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Nouvelle vente",
+      "short_name": "Vente",
+      "url": "./gestionnaire-boutique-telephone.html#vente",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Stock",
+      "short_name": "Stock",
+      "url": "./gestionnaire-boutique-telephone.html#stock",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
