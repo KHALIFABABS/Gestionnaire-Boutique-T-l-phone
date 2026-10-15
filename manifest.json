@@ -2,7 +2,7 @@
   "name": "Ma Boutique - Gestion Boutique Téléphone",
   "short_name": "Ma Boutique",
   "description": "Gestionnaire de caisse pour boutique de téléphone au Sénégal",
-  "start_url": "./gestionnaire-boutique-telephone.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
